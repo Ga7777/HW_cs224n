@@ -4,7 +4,7 @@
 
 先完成a2.pdf的Written部分，完成数学公式推导（我的手写部分），对Coding部分较有帮助。
 
-> 公示推导可参考两篇文章（文章内有一定错误，建议自己推导对照，解决相关问题）：
+> 公式推导可参考两篇文章（文章内有一定错误，建议自己推导对照，解决相关问题）：
 >
 > [(33条消息) CS224N Assignment 2: word2vec (43 Points)_CSJ_CH3COOK的博客-CSDN博客](https://blog.csdn.net/weixin_44618103/article/details/104479827)
 >
